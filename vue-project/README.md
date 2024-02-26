@@ -1,6 +1,9 @@
 # vue-project
 
-This model was developed with Vue 3 on Vite.
+This model was developed with Vue 3 on Vite and Bootstrap.
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
 
 ## Preview
 
